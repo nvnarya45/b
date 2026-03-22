@@ -1,0 +1,5 @@
+body{font-family:'DM Sans';padding:20px;background:#f4f4f4}
+nav{display:flex;justify-content:space-between;background:#111;color:#fff;padding:10px}
+input,textarea{width:300px;padding:8px}
+button{padding:8px 15px;margin-top:10px;cursor:pointer}
+section{margin-bottom:30px;background:#fff;padding:15px;border-radius:10px}
